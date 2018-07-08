@@ -1,0 +1,20 @@
+{
+  "db_version": 1,
+  "files": {
+    "Cloud_Readme.pdf": {
+      "filename": "Cloud_Readme.pdf",
+      "mtime": 1530643658,
+      "size": 108707
+    },
+    "License_Cloud.pdf": {
+      "filename": "License_Cloud.pdf",
+      "mtime": 1529094319,
+      "size": 11949
+    },
+    "wdas_cloud.zip": {
+      "filename": "wdas_cloud.zip",
+      "mtime": 1521477954,
+      "size": 2983590864
+    }
+  }
+}
